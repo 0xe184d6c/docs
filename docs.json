@@ -18,6 +18,9 @@
             "pages": [
               "index",
               "Deployments",
+              "Dollars",
+              "Stocks",
+              "Bonds",
               "Mutual Funds"
             ]
           }
